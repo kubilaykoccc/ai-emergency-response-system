@@ -1,10 +1,10 @@
-# 🧠 AI Emergency Response System
+ AI Emergency Response System
 
 An AI-based emergency alert system that integrates biosensor data, anomaly detection, computer vision, and real-time notifications. This project is designed to simulate how intelligent systems can support critical health and safety responses.
 
 ---
 
-## 🚨 Project Summary
+ Project Summary
 
 This system processes biosensor data such as heart rate and oxygen levels, detects anomalies using machine learning, and triggers alerts based on risk thresholds. Additionally, it integrates computer vision to simulate real-time environmental monitoring (e.g., detecting human presence via camera).
 
@@ -12,7 +12,7 @@ It was developed as part of an academic AI Lab project focusing on emergency app
 
 ---
 
-## 🔧 Core Features
+ Core Features
 
 - **Physiological Anomaly Detection**  
   Using statistical modeling and machine learning to detect abnormalities in heart rate and oxygen saturation.
@@ -28,7 +28,7 @@ It was developed as part of an academic AI Lab project focusing on emergency app
 
 ---
 
-## 💾 Project Structure
+ Project Structure
 
 - `AILAB_PROJECT_CODE.ipynb`:  
   Jupyter Notebook containing full source code, analysis steps, and explanations.
@@ -38,7 +38,7 @@ It was developed as part of an academic AI Lab project focusing on emergency app
 
 ---
 
-## 🛠 Tech Stack
+ Tech Stack
 
 - Python 3.x  
 - NumPy, Pandas  
@@ -49,7 +49,7 @@ It was developed as part of an academic AI Lab project focusing on emergency app
 
 ---
 
-## ▶️ How to Run
+How to Run
 
 1. Clone the repository:
    ```bash
